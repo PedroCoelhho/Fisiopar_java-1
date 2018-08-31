@@ -1,0 +1,8 @@
+controle de sessão 
+Criar o atendimento, gerando um protocolo de atendimento,  
+
+Criar a tela agenda para abrir o atendimento dentro da data da agenda
+
+
+
+ConsultaAgendamento
